@@ -1,0 +1,10 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+    
+    
+          <div class="slds-m-around_medium">
+            <p>Hello</p>
+         
+          </div>
+      
+    
+</aura:component>	
