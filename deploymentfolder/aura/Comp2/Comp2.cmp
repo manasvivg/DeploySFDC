@@ -2,9 +2,9 @@
     
     
           <div class="slds-m-around_medium">
-            <p>Good Morning</p>
+            <p>Good Morning, Bye</p>
          
           </div>
         
-    
+  
 </aura:component>	
